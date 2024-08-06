@@ -1,0 +1,18 @@
+[2024-08-05T18:15:22.905+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-08-05T18:15:23.008+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: reddit_data_pipeline.reddit_extraction manual__2024-08-05T18:15:12.332672+00:00 [queued]>
+[2024-08-05T18:15:23.035+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: reddit_data_pipeline.reddit_extraction manual__2024-08-05T18:15:12.332672+00:00 [queued]>
+[2024-08-05T18:15:23.036+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2024-08-05T18:15:23.085+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): reddit_extraction> on 2024-08-05 18:15:12.332672+00:00
+[2024-08-05T18:15:23.102+0000] {standard_task_runner.py:64} INFO - Started process 49 to run task
+[2024-08-05T18:15:23.123+0000] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'reddit_data_pipeline', 'reddit_extraction', 'manual__2024-08-05T18:15:12.332672+00:00', '--job-id', '2', '--raw', '--subdir', 'DAGS_FOLDER/reddit_dag.py', '--cfg-path', '/tmp/tmpnfaiql1j']
+[2024-08-05T18:15:23.142+0000] {standard_task_runner.py:91} INFO - Job 2: Subtask reddit_extraction
+[2024-08-05T18:15:23.709+0000] {task_command.py:426} INFO - Running <TaskInstance: reddit_data_pipeline.reddit_extraction manual__2024-08-05T18:15:12.332672+00:00 [running]> on host 6af9bcc3df88
+[2024-08-05T18:15:24.713+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Piyush Agarwal' AIRFLOW_CTX_DAG_ID='reddit_data_pipeline' AIRFLOW_CTX_TASK_ID='reddit_extraction' AIRFLOW_CTX_EXECUTION_DATE='2024-08-05T18:15:12.332672+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-05T18:15:12.332672+00:00'
+[2024-08-05T18:15:24.724+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2024-08-05T18:15:25.646+0000] {logging_mixin.py:188} INFO - Connected to Reddit
+[2024-08-05T18:15:26.655+0000] {python.py:237} INFO - Done. Returned value was: None
+[2024-08-05T18:15:26.657+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-08-05T18:15:26.686+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=reddit_data_pipeline, task_id=reddit_extraction, run_id=manual__2024-08-05T18:15:12.332672+00:00, execution_date=20240805T181512, start_date=20240805T181523, end_date=20240805T181526
+[2024-08-05T18:15:26.831+0000] {local_task_job_runner.py:243} INFO - Task exited with return code 0
+[2024-08-05T18:15:26.915+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-08-05T18:15:26.923+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

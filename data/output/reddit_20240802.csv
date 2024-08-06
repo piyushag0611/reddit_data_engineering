@@ -1,0 +1,29 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1ehlebx,Sr. Data Engineer vs excel guy,2179,86,nobilix,2024-08-01 16:44:38,https://i.redd.it/0q52otpzz2gd1.png,False,False,False,False
+1ehpzgc,Senior vs. Staff Data Engineer,157,12,durhoward,2024-08-01 19:51:09,https://i.redd.it/4qxlhe5pw3gd1.png,False,False,False,False
+1eh7aux,Which database should I choose for a large database?,48,61,Practical_Slip6791,2024-08-01 03:59:42,https://www.reddit.com/r/dataengineering/comments/1eh7aux/which_database_should_i_choose_for_a_large/,False,False,False,False
+1ehcd6q,Is this book worth reading ? pls give some reviews if anyone of you has read it,39,8,OpenWeb5282,2024-08-01 09:28:05,https://i.redd.it/yy1fq9i2u0gd1.jpeg,False,False,False,False
+1ehhr08,What is the easiest experience you've had applying for a data engineer job?,27,40,Novel-Tree7557,2024-08-01 14:14:34,https://www.reddit.com/r/dataengineering/comments/1ehhr08/what_is_the_easiest_experience_youve_had_applying/,False,False,False,False
+1eh4dyn,What are data engineering tools/systems that have a funny name?,21,37,inner-musician-5457,2024-08-01 01:30:32,https://www.reddit.com/r/dataengineering/comments/1eh4dyn/what_are_data_engineering_toolssystems_that_have/,False,False,False,False
+1eh4hrh,DuckDB in production ,19,7,Snoo_70708,2024-08-01 01:35:45,https://www.reddit.com/r/dataengineering/comments/1eh4hrh/duckdb_in_production/,False,False,False,False
+1ehc2rt,Is Nifi that Important ?,16,5,Ancient_Quiet_790,2024-08-01 09:07:54,https://www.reddit.com/r/dataengineering/comments/1ehc2rt/is_nifi_that_important/,False,False,False,False
+1ehbgfl,Is it a good idea to use Polars with Pyspark?,13,14,Schlooooompy,2024-08-01 08:25:00,https://www.reddit.com/r/dataengineering/comments/1ehbgfl/is_it_a_good_idea_to_use_polars_with_pyspark/,False,False,False,False
+1ehlg5u,"Will Spark speed up my pipeline, Airflow, BigQuery",5,8,nem03,2024-08-01 16:46:35,https://www.reddit.com/r/dataengineering/comments/1ehlg5u/will_spark_speed_up_my_pipeline_airflow_bigquery/,False,False,False,False
+1ehkasi,Monthly General Discussion - Aug 2024,6,3,AutoModerator,2024-08-01 16:00:31,https://www.reddit.com/r/dataengineering/comments/1ehkasi/monthly_general_discussion_aug_2024/,False,False,False,True
+1ehcxt6,Pipeline Failure due to bin-log expiry,3,1,Suspicious_Peanut282,2024-08-01 10:06:00,https://www.reddit.com/r/dataengineering/comments/1ehcxt6/pipeline_failure_due_to_binlog_expiry/,False,False,False,False
+1ehv1m0,how to append continuous data to PowerBI,3,4,Jaapuchkeaa,2024-08-01 23:24:49,https://www.reddit.com/r/dataengineering/comments/1ehv1m0/how_to_append_continuous_data_to_powerbi/,False,False,False,False
+1ehnq6m,Is it possible to automate exporting raw data from Google Analytics without using an API call?,3,6,Quick123Fox,2024-08-01 18:18:17,https://i.redd.it/1p8mlmhsg3gd1.jpeg,False,False,False,False
+1ehawol,Industry practice for distributed streaming/processing?,3,4,luqmancrit69,2024-08-01 07:46:41,https://www.reddit.com/r/dataengineering/comments/1ehawol/industry_practice_for_distributed/,False,False,False,False
+1eh5fox,Clickhouse on kubernetes,3,2,PrimaryConsistent262,2024-08-01 02:21:24,https://www.reddit.com/r/dataengineering/comments/1eh5fox/clickhouse_on_kubernetes/,False,False,False,False
+1ehpcig,Easiest way to automate getting data from Bing/Microsoft Ads data into a Google Sheet?,2,0,rankRascal,2024-08-01 19:24:06,https://www.reddit.com/r/dataengineering/comments/1ehpcig/easiest_way_to_automate_getting_data_from/,False,False,False,False
+1ehnlry,Anyone experience with AWS SDLF ,2,0,LokeReven,2024-08-01 18:13:24,https://www.reddit.com/r/dataengineering/comments/1ehnlry/anyone_experience_with_aws_sdlf/,False,False,False,False
+1ehn5o1,Is there growth and learning for data engineers in hospital/healthcare companies that use mainly Epic db/dw? ,2,1,UnfairDiscount8331,2024-08-01 17:55:33,https://www.reddit.com/r/dataengineering/comments/1ehn5o1/is_there_growth_and_learning_for_data_engineers/,False,False,False,False
+1ehmfq7,Technical vs Subject Matter skills,2,1,date_uh,2024-08-01 17:26:24,https://www.reddit.com/r/dataengineering/comments/1ehmfq7/technical_vs_subject_matter_skills/,False,False,False,False
+1ehhmzs,How Airbyte 1.0 orchestrates data movement jobs,1,0,arimbr,2024-08-01 14:09:49,https://airbyte.com/blog/introducing-workloads-how-airbyte-1-0-orchestrates-data-movement-jobs,False,False,False,False
+1ehaxa6,Is anyone else having lots of troubles with the new salesforce connector in data factory?,2,0,kbic93,2024-08-01 07:47:48,https://www.reddit.com/r/dataengineering/comments/1ehaxa6/is_anyone_else_having_lots_of_troubles_with_the/,False,False,False,False
+1eh8z70,RDS MySQL -> Snowflake CDC,2,0,josejo9423,2024-08-01 05:38:04,https://www.reddit.com/r/dataengineering/comments/1eh8z70/rds_mysql_snowflake_cdc/,False,False,False,False
+1ehwu9s,If one of your colleagues wants to use Snowflake(DW) as RDBMS.,2,2,DonkeyThin8833,2024-08-02 00:47:45,https://www.reddit.com/r/dataengineering/comments/1ehwu9s/if_one_of_your_colleagues_wants_to_use/,False,False,False,False
+1ehv52t,What would you do in my situation,1,8,Jaapuchkeaa,2024-08-01 23:29:11,https://www.reddit.com/r/dataengineering/comments/1ehv52t/what_would_you_do_in_my_situation/,False,False,False,False
+1ehuob0,"glue notebook, scala?",1,1,bcsamsquanch,2024-08-01 23:08:18,https://www.reddit.com/r/dataengineering/comments/1ehuob0/glue_notebook_scala/,False,False,False,False
+1ehnidp,Multi Vendor dataset- single product,1,1,cida1205,2024-08-01 18:09:30,https://www.reddit.com/r/dataengineering/comments/1ehnidp/multi_vendor_dataset_single_product/,False,False,False,False
+1ehr1qj,Why CSV is still king,0,5,PiccoloCareful924,2024-08-01 20:34:03,https://konbert.com/blog/why-csv-is-still-king,False,False,False,False
